@@ -1,0 +1,5 @@
+- 👋 Hi, my name is Derek, I'm 17 and live in Kitchener, Ontario!
+- 👀 I’m interested in all things coding and making fun projects that have real purposes
+- 🌱 I’m currently learning Python and HTML, CSS, and JS to create a personal portfolio website! - I have experience with C# and Java though
+- 💞️ I’m looking to collaborate on anything! I love trying new things and have never collaborated on a project before, I would love to explore and learn how that works with someone!
+- 📫 How to reach me - Shoot me an email at derekmartin1005@gmail.com and I'll definitely get back to you :)
